@@ -1,4 +1,6 @@
-Este proyecto se desarrolla a partir de una base de datos transaccional que registra el historial completo de ventas anual. Mediante el uso de SQL, se lleva a cabo un análisis integral de ingresos, productos, departamentos, clientes y pedidos, con el objetivo de identificar patrones de comportamiento, detectar oportunidades de mejora y generar insights accionables que contribuyan a la toma de decisiones estratégicas orientadas al crecimiento y la sostenibilidad del negocio.
+El presente proyecto tiene como finalidad transformar datos transaccionales en información valiosa para la empresa Sano y Fresco, especializada en la comercialización de productos saludables. A partir del análisis del historial anual de ventas mediante SQL y su posterior visualización en Power BI, se busca comprender el rendimiento comercial desde distintas perspectivas: ingresos totales, comportamiento de clientes, desempeño por producto y por departamento, entre otros factores clave.
+
+La herramienta principal desarrollada es un cuadro de mando interactivo que permite a la empresa monitorizar y optimizar sus ventas de manera dinámica, facilitando la identificación de patrones de consumo, estacionalidades, oportunidades de mejora y segmentos de alto valor. Este enfoque analítico tiene como propósito fortalecer la toma de decisiones estratégicas, promover la eficiencia operativa y contribuir al crecimiento sostenible del negocio.
 
 ## Objetivos del Proyecto
 
