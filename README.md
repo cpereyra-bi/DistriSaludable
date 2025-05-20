@@ -25,15 +25,13 @@ Las consultas fueron agrupadas en tres ejes:
 2. **Productos y Secciones** → análisis por categoría y top productos.
 3. **Clientes y Pedidos** → ticket medio, volumen y principales clientes.
 
-Los scripts SQL se encuentran en la carpeta [`/sql`](./sql).
+Scripts paso a paso de SQL [SQL_Insights](https://github.com/cpereyra-bi/DistriSaludable/blob/main/SQL_Insights.md).
 
-## Principales Insights
-Visualización de análisis de resultados en  la carpeta [`/powerbi`](./PowerBi).
+## Recomendaciones Estratégicas  
+📄Análisis Estratégico del Negocio 
+Informe para el Consejo de Administración
 
-## Recomendaciones Estratégicas
-- Diversificar departamentos y secciones con campañas específicas.
-- Ampliar el portfolio de productos no orgánicos.
-- Implementar estrategias de upselling (recomendaciones de productos).
-- Fomentar la fidelización de clientes con recompensas por recurrencia.
+ [Informe Completo](https://github.com/cpereyra-bi/DistriSaludable/blob/main/InformeEstrat%C3%A9gico.md)
+
 
 
