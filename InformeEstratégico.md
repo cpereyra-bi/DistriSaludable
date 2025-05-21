@@ -1,5 +1,5 @@
 # Análisis Estratégico del Negocio  
-# Informe para el Consejo de Administración
+A contunuación informe a presentar para el Consejo de Administración:
 
 ## 📌 Resumen Ejecutivo
 
