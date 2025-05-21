@@ -1,9 +1,7 @@
 # Análisis Estratégico del Negocio  
-## Informe para el Consejo de Administración
+# Informe para el Consejo de Administración
 
----
-
-### 📌 Resumen Ejecutivo
+## 📌 Resumen Ejecutivo
 
 El negocio ha generado **$39.854.875,32** en ingresos totales durante el año.  
 Sin embargo, se observa una **tendencia decreciente significativa en los ingresos mensuales**.  
@@ -11,7 +9,7 @@ Es crucial implementar estrategias para revertir esta caída y diversificar las 
 
 ---
 
-### 📊 Conclusiones y Recomendaciones
+## 📊 Conclusiones y Recomendaciones
 
 El negocio enfrenta **riesgos significativos** debido a:
 
@@ -23,9 +21,9 @@ El negocio enfrenta **riesgos significativos** debido a:
 
 ### 🔍 Evidencias
 
-- 📉 **Disminución de ingresos:** 82% de caída en ingresos mensuales a lo largo del año  
-- 🏬 **Falta de diversificación:** Departamento 4 y Sección 24 dominan los ingresos  
-- 💶 **Bajo valor promedio de compra:** Valor promedio por pedido de **$19,34**
+- **Disminución de ingresos:** 82% de caída en ingresos mensuales a lo largo del año  
+- **Falta de diversificación:** Departamento 4 y Sección 24 dominan los ingresos  
+- **Bajo valor promedio de compra:** Valor promedio por pedido de **$19,34**
 
 ---
 
